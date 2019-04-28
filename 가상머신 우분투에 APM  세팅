@@ -1,0 +1,14 @@
+1. 가상머신 우분투를 운영하기 위한 기본 프로그램인 VM 소프트웨어를 먼저 설치해 준다.
+ 
+  - VM 소프트웨어 설치링크 : https://www.vmware.com/kr/products/workstation-player/workstation-player-evaluation.html
+  - VM 소프트웨어 설치방법 참고 : https://recipes4dev.tistory.com/108
+
+
+2. Ubuntu 18.04 버전을 설치해 준다. (여기서 desktop version 을 설치해 주어야 함!! 나는 link version 을 실수로 설치 했었다..)
+  
+  - Ubuntu 18.04 버전 설치링크: https://www.ubuntu.com/download/desktop
+  
+
+3. 설치한 Ubuntu 파일로 새로운 서버를 만들어 준다.
+  
+  - Ubuntu 설치방법 참고 : https://blog.naver.com/wlgh325/221353290980
